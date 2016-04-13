@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexliturgicus04danigoog/codexliturgicus04danigoog_0338.png"; bbox 0 0 3314 5304; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 217 595 1463 928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 217 595 1463 928">
+     <span class='ocr_line' id='line_1_1' title="bbox 217 595 1463 928; baseline -0.001 -124"><span class='ocrx_word' id='word_1_1' title='bbox 217 597 533 928; x_wconf 71' lang='lat' dir='ltr'>colmx</span> <span class='ocrx_word' id='word_1_2' title='bbox 591 595 1178 804; x_wconf 72' lang='lat' dir='ltr'>mvnfflcvs</span> <span class='ocrx_word' id='word_1_3' title='bbox 1387 901 1463 918; x_wconf 65' lang='lat'>„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 75 1121 1333 1344">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 75 1121 1333 1344">
+     <span class='ocr_line' id='line_1_2' title="bbox 75 1121 1333 1344; baseline 0 -48"><span class='ocrx_word' id='word_1_4' title='bbox 75 1121 631 1298; x_wconf 66' lang='lat' dir='ltr'><strong>nomm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 694 1173 1333 1344; x_wconf 68' lang='lat' dir='ltr'>ommms</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 1649 1341 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 1649 1341 1758">
+     <span class='ocr_line' id='line_1_3' title="bbox 304 1649 1341 1758; baseline 0.003 -25"><span class='ocrx_word' id='word_1_6' title='bbox 304 1651 363 1734; x_wconf 88' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 403 1649 717 1734; x_wconf 81' lang='grc' dir='ltr'><strong>ΕΡΙΤθΜΕΝ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 758 1651 1089 1736; x_wconf 72' lang='lat' dir='ltr'><strong>REnAchs.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1335 1741 1341 1758; x_wconf 61' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1662 5304">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1662 5304">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1662 5304; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1662 5304; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
